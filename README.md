@@ -1,5 +1,4 @@
 # ODI-Cricket-Statistics-and-Analysis
-# ODI-Cricket-Statistics-and-Analysis
 ## Overview
 This project analyzes **ODI cricket statistics** using **data preprocessing, visualization, and machine learning** models to gain insights and predict player performance.
 
